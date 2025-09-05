@@ -141,10 +141,6 @@ main {
   transition: color 0.2s, text-decoration-color 0.3s;
 }
 
-.bio ol li {
-  margin-bottom: 0;
-}
-
 .links {
   display: flex;
   justify-content: center;
