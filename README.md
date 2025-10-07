@@ -1,4 +1,7 @@
 # squid1127.github.io
-An about me page, for me, the squid.
+
+An about me page, for me, [squid1127](https://github.com/squid1127).
+
 ## License
-No license, all rights reserved, for obvious reasons.
+
+MIT because I no longer care
